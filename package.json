@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code for Next.js application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidDionise/nextjs-boilerplage.git"
+  },
+  "author": "David Dionise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidDionise/nextjs-boilerplage/issues"
+  },
+  "homepage": "https://github.com/DavidDionise/nextjs-boilerplage#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
